@@ -2,7 +2,7 @@
 data/telco_churn.csv
 
 # Model files
-model/
+#model/
 
 # Python
 __pycache__/
