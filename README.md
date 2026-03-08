@@ -1,4 +1,5 @@
 # Customer Churn Predictor
+![App Screenshot](app.png)
 
 A Machine Learning web application that predicts whether a customer is likely to churn (leave a service).
 The model analyzes customer information such as tenure, charges, contract type, and services to estimate churn probability.
