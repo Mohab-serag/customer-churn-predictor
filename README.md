@@ -1,4 +1,5 @@
 # Customer Churn Predictor
+[Live App](https://customer-churn-predictor-mohab.streamlit.app)
 ![App Screenshot](app.png)
 
 A Machine Learning web application that predicts whether a customer is likely to churn (leave a service).
