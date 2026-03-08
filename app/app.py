@@ -4,8 +4,8 @@ import numpy as np
 import joblib
 
 # ===== Load Model =====
-model = joblib.load("model/churn_model.pkl")
-scaler = joblib.load("model/scaler.pkl")
+model = joblib.load("churn_model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # ===== Page Config =====
 st.set_page_config(page_title="Customer Churn Predictor", page_icon="📊", layout="wide")
